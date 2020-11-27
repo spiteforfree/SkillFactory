@@ -232,13 +232,11 @@ header {
 }
 
 .main-menu__link:hover {
-	text-decoration: underline;
+	color: #E3B873;
 
 }
 
-.main-menu__link--active {
-	color: #E3B873;	
-}
+
 
 .phone {
 	cursor: pointer;
@@ -252,6 +250,7 @@ header {
 
 .phone a:hover {
 	text-decoration: underline;
+
 }
 
 
