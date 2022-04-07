@@ -227,6 +227,14 @@ header {
 	width: 580px;
 }
 
+@media and screen (max-width: 375px) {
+.main-menu {
+	display: none;
+
+}
+
+}
+
 .main-menu__link {
 	color: white;
 }
